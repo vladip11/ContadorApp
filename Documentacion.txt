@@ -1,0 +1,5 @@
+Manifest:
+https://developer.mozilla.org/es/docs/Web/Manifest
+
+Orientation:
+https://developer.mozilla.org/en-US/docs/Web/Manifest/orientation
